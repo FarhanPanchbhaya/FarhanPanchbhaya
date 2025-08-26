@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about building clean, efficient sol
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/farhan-panchbhaya)  
+- <a href="https://www.linkedin.com/in/farhan-panchbhaya" target="_blank">LinkedIn</a> 
 - FarhanP120@hotmail.com  
 
 ---
